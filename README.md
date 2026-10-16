@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sikha Patel! 👋
 
-<!--
-**Sikha219/Sikha219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Learning Python and Machine Learning
+- 💻 Practicing Data Structures and Algorithms
+- 🤖 Interested in Artificial Intelligence and Data Science
+- 🚀 Building projects to improve my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- NumPy
+- Pandas
+- Data Structures and Algorithms
+
+## Projects
+- ArtisanLink – A platform connecting customers with local artisans
+- Python Practice – My Python learning journey
+
+## Goals
+- Build practical AI/ML projects
+- Contribute to open-source projects
+- Prepare for AI/ML internships
+
+## Contact
+- GitHub: https://github.com/Sikha219
